@@ -9,7 +9,7 @@
 
 ### Description
 
-In this work, we develop a dynamic and scalable virtual environment for the Scara robot where the physical robot can be easily defined and extended by adding more links. We use the DDPG(Deep Deterministic Policy Gradient) algorithm to let the robot learn the task of inverse kinematics, which is, actuating different joints to reach a target object where the location of the target object is known.
+In this work, we develop a dynamic and scalable virtual environment for the Scara robot where the physical robot can be easily defined and extended by adding more links. We use the DDPG(Deep Deterministic Policy Gradient) algorithm to let the robot learn the task of inverse kinematics, which is, actuating different joints to reach a target object where the location of the target object is known. Full documentation can be found ![HERE](https://haruiz.github.io/rl-project/) 
 
 In addition, in order to test our model in the real world, we designed and developed a scaled version of a Scara robot using 3d printing and Arduino.
 
